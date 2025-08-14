@@ -1,0 +1,3 @@
+pd -nogui -noadc -alsa -alsaadd usb1 sound-osc-3.pd &
+pd -nogui -noadc -alsa -alsaadd usb2 sound-osc-3.pd &
+pd -nogui -noadc -alsa -alsaadd hifiberry sound-osc-3.pd
